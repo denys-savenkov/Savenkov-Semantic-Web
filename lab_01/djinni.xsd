@@ -12,30 +12,16 @@
       <xs:element type="xs:string" name="position"/>
       <xs:element type="locationsType" name="locations"/>
       <xs:element type="xs:string" name="salary"/>
-      <xs:element name="years_of_experience">
-        <xs:simpleType>
-          <xs:restriction base="xs:string">
-            <xs:enumeration value="1.0"/>
-            <xs:enumeration value="3.0"/>
-            <xs:enumeration value="2.5"/>
-            <xs:enumeration value="6.0"/>
-            <xs:enumeration value="0"/>
-            <xs:enumeration value="5.0"/>
-            <xs:enumeration value="10.0"/>
-            <xs:enumeration value="1.5"/>
-            <xs:enumeration value="2.0"/>
-            <xs:enumeration value="4.0"/>
-          </xs:restriction>
-        </xs:simpleType>
-      </xs:element>
+      <xs:element type="xs:float" name="years_of_experience"/>
       <xs:element name="english_level">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="Intermediate"/>
-            <xs:enumeration value="Upper Intermediate"/>
-            <xs:enumeration value="Advanced/Fluent"/>
-            <xs:enumeration value="Pre-Intermediate"/>
             <xs:enumeration value="Beginner/Elementary"/>
+            <xs:enumeration value="Advanced/Fluent"/>
+            <xs:enumeration value="Intermediate"/>
+            <xs:enumeration value="Pre-Intermediate"/>
+            <xs:enumeration value="Upper Intermediate"/>
+            <xs:enumeration value=""/>
           </xs:restriction>
         </xs:simpleType>
       </xs:element>
