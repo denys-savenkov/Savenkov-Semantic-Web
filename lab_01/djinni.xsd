@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="candidates" type="candidatesType"/>
+  <xs:complexType name="locationsType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="value" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="candidateType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="url"/>
+      <xs:element type="xs:string" name="position"/>
+      <xs:element type="locationsType" name="locations"/>
+      <xs:element type="xs:string" name="salary"/>
+      <xs:element name="years_of_experience">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="1.0"/>
+            <xs:enumeration value="3.0"/>
+            <xs:enumeration value="2.5"/>
+            <xs:enumeration value="6.0"/>
+            <xs:enumeration value="0"/>
+            <xs:enumeration value="5.0"/>
+            <xs:enumeration value="10.0"/>
+            <xs:enumeration value="1.5"/>
+            <xs:enumeration value="2.0"/>
+            <xs:enumeration value="4.0"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="english_level">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Intermediate"/>
+            <xs:enumeration value="Upper Intermediate"/>
+            <xs:enumeration value="Advanced/Fluent"/>
+            <xs:enumeration value="Pre-Intermediate"/>
+            <xs:enumeration value="Beginner/Elementary"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="experience"/>
+      <xs:element type="xs:string" name="skills"/>
+      <xs:element type="xs:string" name="highlights"/>
+      <xs:element type="xs:string" name="expectations"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="candidatesType">
+    <xs:sequence>
+      <xs:element type="candidateType" name="candidate" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
