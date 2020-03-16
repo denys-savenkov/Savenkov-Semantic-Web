@@ -61,8 +61,6 @@ class DjinniSpider(scrapy.Spider):
 
         yield candidate
 
-    def add_id(self):
-
 
 
 if __name__ == '__main__':
