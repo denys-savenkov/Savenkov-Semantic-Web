@@ -1,5 +1,4 @@
 import lxml.etree as ET
-from lxml.html.clean import unicode
 
 dom = ET.parse('new_djinni.xml')
 xslt = ET.parse('candidates_list.xsl')

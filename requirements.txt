@@ -1,2 +1,4 @@
 scrapy==2.0.0
 lxml==4.5.0
+rdflib
+langdetect

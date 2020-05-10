@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about="https://djinni.co//q/31b722c2af/">
+        <dc:title>Web Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/31b722c2af/</dc:source>
+        <dc:identifier>31b722c2af</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/7be7db037f/">
+        <dc:title>Full stack developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/7be7db037f/</dc:source>
+        <dc:identifier>7be7db037f</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/f1fa7fb2b3/">
+        <dc:title>iOS Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/f1fa7fb2b3/</dc:source>
+        <dc:identifier>f1fa7fb2b3</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/b87efaaae2/">
+        <dc:title>UX/UI Designer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/b87efaaae2/</dc:source>
+        <dc:identifier>b87efaaae2</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/028d3ff937/">
+        <dc:title>Frontend Developer (Vue)</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/028d3ff937/</dc:source>
+        <dc:identifier>028d3ff937</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/e150545e/">
+        <dc:title>Senior QA Engineer manual/automation</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/e150545e/</dc:source>
+        <dc:identifier>e150545e</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/e1cbb5ef52/">
+        <dc:title>Розробник PHP</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/e1cbb5ef52/</dc:source>
+        <dc:identifier>e1cbb5ef52</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/ee79d46701/">
+        <dc:title>Branding, marketing, copywriting</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/ee79d46701/</dc:source>
+        <dc:identifier>ee79d46701</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/c399d0cee8/">
+        <dc:title>Senior PHP Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/c399d0cee8/</dc:source>
+        <dc:identifier>c399d0cee8</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/a041c16a1d/">
+        <dc:title>junior java developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/a041c16a1d/</dc:source>
+        <dc:identifier>a041c16a1d</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>uk</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/5d0e57ade1/">
+        <dc:title>Business Development Manager</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/5d0e57ade1/</dc:source>
+        <dc:identifier>5d0e57ade1</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/caf6c44c91/">
+        <dc:title>Senior UI/UX designer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/caf6c44c91/</dc:source>
+        <dc:identifier>caf6c44c91</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/34e9b1e6a7/">
+        <dc:title>HRD, Head of Recruitment</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/34e9b1e6a7/</dc:source>
+        <dc:identifier>34e9b1e6a7</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/e0b7500dfc/">
+        <dc:title>Data Scientist</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/e0b7500dfc/</dc:source>
+        <dc:identifier>e0b7500dfc</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/bdc0682494/">
+        <dc:title>JavaScript Developer | Front-End</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/bdc0682494/</dc:source>
+        <dc:identifier>bdc0682494</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/a56af8066c/">
+        <dc:title>Junior QA Engineer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/a56af8066c/</dc:source>
+        <dc:identifier>a56af8066c</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/10719b4c/">
+        <dc:title>Lead iOS Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/10719b4c/</dc:source>
+        <dc:identifier>10719b4c</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/6600615bf9/">
+        <dc:title>Marketing Manager</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/6600615bf9/</dc:source>
+        <dc:identifier>6600615bf9</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/4714e4e81b/">
+        <dc:title>Front-end Developer (React.js)</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/4714e4e81b/</dc:source>
+        <dc:identifier>4714e4e81b</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/84a798b6d7/">
+        <dc:title>Java Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/84a798b6d7/</dc:source>
+        <dc:identifier>84a798b6d7</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/e3a6f06c75/">
+        <dc:title>Team Lead Data Analytics / Senior Data Analyst</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/e3a6f06c75/</dc:source>
+        <dc:identifier>e3a6f06c75</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/b168e8f777/">
+        <dc:title>JavaScript Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/b168e8f777/</dc:source>
+        <dc:identifier>b168e8f777</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/1c790122/">
+        <dc:title>SEO specialist</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/1c790122/</dc:source>
+        <dc:identifier>1c790122</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/0b99408a/">
+        <dc:title>Java Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/0b99408a/</dc:source>
+        <dc:identifier>0b99408a</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/716a9360bc/">
+        <dc:title>Senior Android Software Engineer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/716a9360bc/</dc:source>
+        <dc:identifier>716a9360bc</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/62df791f32/">
+        <dc:title>QA engineer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/62df791f32/</dc:source>
+        <dc:identifier>62df791f32</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/af6d290f21/">
+        <dc:title>Sales Manager</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/af6d290f21/</dc:source>
+        <dc:identifier>af6d290f21</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/f8af2e9b99/">
+        <dc:title>Системный администратор</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/f8af2e9b99/</dc:source>
+        <dc:identifier>f8af2e9b99</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>de</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/b075c7069c/">
+        <dc:title>Front-end developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/b075c7069c/</dc:source>
+        <dc:identifier>b075c7069c</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>fr</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/4c67096307/">
+        <dc:title>Data Scientist/ Machine Learning Engineer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/4c67096307/</dc:source>
+        <dc:identifier>4c67096307</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/b334643bbb/">
+        <dc:title>Front-end Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/b334643bbb/</dc:source>
+        <dc:identifier>b334643bbb</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/2e4be21a01/">
+        <dc:title>Middle front-end developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/2e4be21a01/</dc:source>
+        <dc:identifier>2e4be21a01</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/4b32da82/">
+        <dc:title>PHP developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/4b32da82/</dc:source>
+        <dc:identifier>4b32da82</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/4e489141ea/">
+        <dc:title>Digital Marketing Manager</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/4e489141ea/</dc:source>
+        <dc:identifier>4e489141ea</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/eab54fa6bf/">
+        <dc:title>Web Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/eab54fa6bf/</dc:source>
+        <dc:identifier>eab54fa6bf</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/7e8410d712/">
+        <dc:title>Junior Project Manager</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/7e8410d712/</dc:source>
+        <dc:identifier>7e8410d712</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/697bde7292/">
+        <dc:title>digital marketing specialist</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/697bde7292/</dc:source>
+        <dc:identifier>697bde7292</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/266cd460/">
+        <dc:title>Head of Software Development, Senior Delivery Manager, VP of Engineering</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/266cd460/</dc:source>
+        <dc:identifier>266cd460</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/528fbe589f/">
+        <dc:title>Junior+/Middle PHP Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/528fbe589f/</dc:source>
+        <dc:identifier>528fbe589f</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>uk</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/e15cef65ad/">
+        <dc:title>UI/UX DESIGNER</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/e15cef65ad/</dc:source>
+        <dc:identifier>e15cef65ad</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>de</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/ad92da4a91/">
+        <dc:title>Junior seo</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/ad92da4a91/</dc:source>
+        <dc:identifier>ad92da4a91</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/874af32394/">
+        <dc:title>Junior Front-end Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/874af32394/</dc:source>
+        <dc:identifier>874af32394</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/03d3f86029/">
+        <dc:title>web designer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/03d3f86029/</dc:source>
+        <dc:identifier>03d3f86029</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/8b9ced47a0/">
+        <dc:title>Marketing Manager</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/8b9ced47a0/</dc:source>
+        <dc:identifier>8b9ced47a0</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/7a416e85d0/">
+        <dc:title>SEO Marketing Manager</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/7a416e85d0/</dc:source>
+        <dc:identifier>7a416e85d0</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/e3e6b408da/">
+        <dc:title>Account Manager</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/e3e6b408da/</dc:source>
+        <dc:identifier>e3e6b408da</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/f8e60ee33c/">
+        <dc:title>Junior QA</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/f8e60ee33c/</dc:source>
+        <dc:identifier>f8e60ee33c</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/6fed550de7/">
+        <dc:title>Junior Manual QA Engineer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/6fed550de7/</dc:source>
+        <dc:identifier>6fed550de7</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+    </rdf:Description>
+</rdf:RDF>

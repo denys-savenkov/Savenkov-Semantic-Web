@@ -18,6 +18,7 @@ class DjinniSpider(scrapy.Spider):
     def parse_main_page(self, response):
         ten_candidates = ['https://djinni.co/' + x for x in
                           response.css('div.searchresults a.profile::attr(href)').extract()]
+        print(response.xpath("for $x in //candidate return if($x/position[contains(., ' ')]) then <index>{data($x/@id)}</index> else ''").get())
         for candidate_url in ten_candidates:
             if self.current_candidates > self.max_candidates:
                 return
@@ -62,7 +63,6 @@ class DjinniSpider(scrapy.Spider):
         yield candidate
 
 
-
 if __name__ == '__main__':
     from scrapy.crawler import CrawlerProcess
 
@@ -74,7 +74,8 @@ if __name__ == '__main__':
             'xml': 'exporter.DjinniXmlItemExporter',
         },
         'FEED_FORMAT': 'xml',
-        'FEED_URI': 'djinni.xml'
+        'FEED_URI': 'djinni.xml',
+        'CLOSESPIDER_PAGECOUNT': 200
     })
     process.crawl(DjinniSpider)
     process.start()  # the script will block here until the crawling is finished
