@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:mk="https://djinni.co/#"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <rdf:Description rdf:about="https://djinni.co//q/31b722c2af/">
+        <dc:title>Web Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/31b722c2af/</dc:source>
+        <dc:identifier>31b722c2af</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+
+        <rdfs:subClassOf rdf:resource="#web"/>
+        <mk:qualification>3</mk:qualification>
+        <mk:languages>java, python, js</mk:languages>
+        <mk:city>Remote</mk:city>
+        <mk:experience>1</mk:experience>
+        <mk:gender>Male</mk:gender>
+        <mk:degree>None</mk:degree>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://djinni.co//q/e0b7500dfc/">
+        <dc:title>Data Scientist</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/e0b7500dfc/</dc:source>
+        <dc:identifier>e0b7500dfc</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+
+        <mk:qualification>4</mk:qualification>
+        <rdfs:subClassOf rdf:resource="#data-science"/>
+        <mk:MLSpecialization>Computer Vision</mk:MLSpecialization>
+        <mk:languages>c, c++, r, python, matlab</mk:languages>
+        <mk:city>Kharkiv, Remote</mk:city>
+        <mk:experience>2</mk:experience>
+        <mk:MLAlgorithms>CNN, LSTM, Resnet, Retinanet</mk:MLAlgorithms>
+        <mk:gender>Male</mk:gender>
+        <mk:degree>PhD</mk:degree>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://djinni.co//q/7be7db037f/">
+        <dc:title>Full stack developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/7be7db037f/</dc:source>
+        <dc:identifier>7be7db037f</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+
+        <rdfs:subClassOf rdf:resource="#web"/>
+        <mk:qualification>3</mk:qualification>
+        <mk:languages>java, python, js</mk:languages>
+        <mk:city>Dnepr</mk:city>
+        <mk:experience>7</mk:experience>
+        <mk:gender>Male</mk:gender>
+        <mk:degree>MSc</mk:degree>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://djinni.co//q/f1fa7fb2b3/">
+        <dc:title>iOS Developer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/f1fa7fb2b3/</dc:source>
+        <dc:identifier>f1fa7fb2b3</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+
+        <rdfs:subClassOf rdf:resource="#mobile"/>
+        <mk:qualification>3</mk:qualification>
+        <mk:platform>IoS</mk:platform>
+        <mk:languages>jbject c</mk:languages>
+        <mk:city>Lviv</mk:city>
+        <mk:experience>3</mk:experience>
+        <mk:gender>Female</mk:gender>
+        <mk:degree>MSc</mk:degree>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://djinni.co//q/b87efaaae2/">
+        <dc:title>UX/UI Designer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/b87efaaae2/</dc:source>
+        <dc:identifier>b87efaaae2</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+
+        <rdfs:subClassOf rdf:resource="#ui"/>
+        <mk:qualification>1</mk:qualification>
+        <mk:city>Remote</mk:city>
+        <mk:experience>3</mk:experience>
+        <mk:gender>Female</mk:gender>
+        <mk:degree>None</mk:degree>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://djinni.co//q/028d3ff937/">
+        <dc:title>Frontend Developer (Vue)</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/028d3ff937/</dc:source>
+        <dc:identifier>028d3ff937</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+
+        <rdfs:subClassOf rdf:resource="#web"/>
+        <mk:qualification>3</mk:qualification>
+        <mk:languages>js, vue.js</mk:languages>
+        <mk:city>Remote</mk:city>
+        <mk:experience>4</mk:experience>
+        <mk:gender>Male</mk:gender>
+        <mk:degree>None</mk:degree>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/a56af8066c/">
+        <dc:title>Junior QA Engineer</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/a56af8066c/</dc:source>
+        <dc:identifier>a56af8066c</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>en</dc:language>
+
+
+        <rdfs:subClassOf rdf:resource="#qa"/>
+        <mk:qualification>2</mk:qualification>
+        <mk:languages>java, python</mk:languages>
+        <mk:city>Remote</mk:city>
+        <mk:experience>1</mk:experience>
+        <mk:gender>Female</mk:gender>
+        <mk:degree>BSc</mk:degree>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://djinni.co//q/7e8410d712/">
+        <dc:title>Junior Project Manager</dc:title>
+        <dc:description>Djinni.co - IT Resume</dc:description>
+        <dc:source>https://djinni.co//q/7e8410d712/</dc:source>
+        <dc:identifier>7e8410d712</dc:identifier>
+        <dc:publisher>Djinni.co</dc:publisher>
+        <dc:format>text/html</dc:format>
+        <dc:type>Human Resources</dc:type>
+        <dc:subject>IT Resume</dc:subject>
+        <dc:language>ru</dc:language>
+
+        <rdfs:subClassOf rdf:resource="#administrator"/>
+        <mk:qualification>3</mk:qualification>
+        <mk:city>Kyev</mk:city>
+        <mk:experience>0</mk:experience>
+        <mk:methodologies>Agile, Scrum</mk:methodologies>
+        <mk:gender>None</mk:gender>
+        <mk:degree>BSc.</mk:degree>
+    </rdf:Description>
+
+
+    <rdfs:Class rdf:ID="engineer"/>
+    <rdfs:Class rdf:ID="researcher"/>
+    <rdfs:Class rdf:ID="manager"/>
+    <rdfs:Class rdf:ID="designer"/>
+
+    <rdfs:Class rdf:ID="web">
+        <rdfs:subClassOf rdf:resource="#engineer"/>
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="mobile">
+        <rdfs:subClassOf rdf:resource="#engineer"/>
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="qa">
+        <rdfs:subClassOf rdf:resource="#engineer"/>
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="data-science">
+        <rdfs:subClassOf rdf:resource="#researcher"/>
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="ui">
+        <rdfs:subClassOf rdf:resource="#designer"/>
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="administrator">
+        <rdfs:subClassOf rdf:resource="#manager"/>
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="SnM">
+        <rdfs:subClassOf rdf:resource="#manager"/>
+    </rdfs:Class>
+
+
+    <rdf:Property rdf:ID="qualification">
+        <rdfs:range rdf:resource="xsd:int"/>
+    </rdf:Property>
+    <rdf:Property rdf:ID="MLSpecialization">
+        <rdfs:domain rdf:resource="#data-science"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+    <rdf:Property rdf:ID="platform">
+        <rdfs:domain rdf:resource="#mobile"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+    <rdf:Property rdf:ID="languages">
+        <rdfs:domain rdf:resource="#engineer"/>
+        <rdfs:domain rdf:resource="#researcher"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+    <rdf:Property rdf:ID="city">
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+    <rdf:Property rdf:ID="experience">
+        <rdfs:range rdf:resource="xsd:int"/>
+    </rdf:Property>
+    <rdf:Property rdf:ID="degree">
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+    <rdf:Property rdf:ID="gender">
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+    <rdf:Property rdf:ID="MLAlgorithms">
+        <rdfs:domain rdf:resource="#data-science"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+    <rdf:Property rdf:ID="methodologies">
+        <rdfs:domain rdf:resource="#administrator"/>
+        <rdfs:range rdf:resource="xsd:int"/>
+    </rdf:Property>
+</rdf:RDF>

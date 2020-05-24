@@ -4,7 +4,6 @@ import langdetect
 
 def _root_to_rdf():
     root = ET.Element('rdf:RDF')
-    # root.tag = 'rdf:RDF'
     root.set("xmlns:rdf","http://www.w3.org/1999/02/22-rdf-syntax-ns#")
     root.set("xmlns:dc","http://purl.org/dc/elements/1.1/")
     return root
